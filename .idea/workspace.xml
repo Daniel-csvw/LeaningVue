@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60aeaf62-7aaf-48b5-b807-fef138527ecf" name="Default Changelist" comment="1">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="60aeaf62-7aaf-48b5-b807-fef138527ecf" name="Default Changelist" comment="1" />
     <list id="7a3b0f3b-608b-45d2-abba-aea320f522fe" name="Revert &quot;增加配置文件&quot;" comment="Revert &quot;增加配置文件&quot;&#10;&#10;This reverts commit 8a818f56" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -41,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+            <state relative-caret-position="27">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -81,9 +79,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="169" />
-    <option name="y" value="122" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="720" />
+    <option name="y" value="165" />
     <option name="width" value="1400" />
     <option name="height" value="970" />
   </component>
@@ -142,7 +140,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569662062861</updated>
-      <workItem from="1569662065607" duration="4485000" />
+      <workItem from="1569662065607" duration="4730000" />
     </task>
     <task id="LOCAL-00001" summary="增加配置文件">
       <created>1569662459104</created>
@@ -179,23 +177,30 @@
       <option name="project" value="LOCAL" />
       <updated>1569663537148</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="加gitignore">
+      <created>1569666608816</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569666608816</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4485000" />
+    <option name="totallyTimeSpent" value="4730000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="720" y="165" width="1400" height="970" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Gulp" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13932449" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16960353" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.3295964" />
+      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.35167465" />
       <window_info anchor="bottom" id="Terminal" weight="0.3295964" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -230,7 +235,8 @@
     <MESSAGE value="修改" />
     <MESSAGE value="Revert &quot;增加配置文件&quot;&#10;&#10;This reverts commit 8a818f56b92efb54b8b01fbebf21dad4bf34238b.&#10;&#10;# Conflicts:&#10;#&#9;README.md" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="加gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="加gitignore" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/node_modules/webpack-dev-server/bin/webpack-dev-server.js">
@@ -311,8 +317,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+        <state relative-caret-position="27">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
