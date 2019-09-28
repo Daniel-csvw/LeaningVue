@@ -21,8 +21,8 @@
 		<v-header title="登录">
 			<router-link slot="left" to="/">返回</router-link>
 		</v-header>
-		<form class="login" v-on:submit.prevent="submit">
-			<div class="line">	
+		<form class="login" v-on:submit.prevent="">
+			<div class="line">
 				<div v-show="btn && !form.id">id不能为空</div>
 				<input type="number" placeholder="输入你的id" v-model="form.id">
 			</div>
